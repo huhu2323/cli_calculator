@@ -5,6 +5,7 @@ A simple calculator that parses string to arithmetic operations
 # Instructions
 - make sure you have git installed
 - clone the project `git clone https://github.com/huhu2323/cli_calculator.git`
+- cd into project `cd cli_calculator`
 - make sure you have `composer` installed in your system
 - run `composer install`
 - inside the project, run `php artisan calculate`
